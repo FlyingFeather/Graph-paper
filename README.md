@@ -2,14 +2,14 @@
 记录图神经网络论文/推荐相关的列表，相关笔记也在不断更新中
 
 ## Dynamic network
-  1. 2019-DASFAA-DynGraphGAN: Dynamic Graph Embedding via Generative Adversarial Networks. 
-	2. 2019-SIGIR-Network Embedding and Change Modeling in Dynamic Heterogeneous Networks.
+ 1. 2019-DASFAA-DynGraphGAN: Dynamic Graph Embedding via Generative Adversarial Networks. 
+  2. 2019-SIGIR-Network Embedding and Change Modeling in Dynamic Heterogeneous Networks.
   3. 2018-IJCAI-Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding.
   4. 2018-AAAI-Dynamic Network Embedding by Modeling Triadic Closure Process. 
-	5. 2018-AAAI-Joint Learning of Evolving Links for Dynamic Network Embedding.
-	6. 2018-AAAI-DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks. 
-	7. IEEE Trans. Knowl. Data-High-Order Proximity Preserved Embedding for Dynamic Networks. 
-	8. 2017-CIKM-Attributed network embedding for learning in a dynamic environment
+5. 2018-AAAI-Joint Learning of Evolving Links for Dynamic Network Embedding.
+6. 2018-AAAI-DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks. 
+7. IEEE Trans. Knowl. Data-High-Order Proximity Preserved Embedding for Dynamic Networks. 
+8. 2017-CIKM-Attributed network embedding for learning in a dynamic environment
   9. 2019-KDD-Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks
   10. Attributed network embedding for learning in a dynamic environment
   11. High-order Proximity Preserved Embedding For Dynamic Networks
